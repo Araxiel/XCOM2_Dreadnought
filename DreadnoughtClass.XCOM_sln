@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # XCOM ModBuddy Solution File, Format Version 11.00
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{5DAE07AF-E217-45C1-8DE7-FF99D6011E8A}") = "Dreadnought_class_ir", "Dreadnought_class_ara\Dreadnought_class_ir.x2proj", "{04F309A6-D1C9-4635-8EC9-2058237F485C}"
+Project("{5DAE07AF-E217-45C1-8DE7-FF99D6011E8A}") = "DreadnoughtClass", "DreadnoughtClass\DreadnoughtClass.x2proj", "{FAC8CA39-4DF2-4769-B3C7-31E845E6711E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Default|XCOM 2 = Default|XCOM 2
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{04F309A6-D1C9-4635-8EC9-2058237F485C}.Default|XCOM 2.ActiveCfg = Default|XCOM 2
-		{04F309A6-D1C9-4635-8EC9-2058237F485C}.Default|XCOM 2.Build.0 = Default|XCOM 2
+		{FAC8CA39-4DF2-4769-B3C7-31E845E6711E}.Default|XCOM 2.ActiveCfg = Default|XCOM 2
+		{FAC8CA39-4DF2-4769-B3C7-31E845E6711E}.Default|XCOM 2.Build.0 = Default|XCOM 2
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
